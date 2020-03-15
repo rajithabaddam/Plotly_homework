@@ -76,8 +76,6 @@ function createchart(sampleid){
       type: "bar"
       ,orientation: "h"
     }; 
-
-   
     
     // data
     var bar_data = [trace1];
